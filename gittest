@@ -1,3 +1,3 @@
 #!/bin/bash
 echo "Welcome to Devops Session"
-update the new session
+echo "Have a Happy Session"
